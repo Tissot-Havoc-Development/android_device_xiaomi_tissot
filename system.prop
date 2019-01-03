@@ -10,3 +10,6 @@ vendor.camera.aux.packagelist2=com.google.android.GoogleCameraWide
 
 # Always use GPU for screen compositing
 debug.sf.disable_hwc=1
+
+#Havoc
+ro.havoc.maintainer=MountaserHalak
