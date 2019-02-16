@@ -11,3 +11,6 @@ persist.camera.dual.camera=0
 
 # Always use GPU for screen compositing
 debug.sf.disable_hwc=1
+
+#Havoc
+ro.havoc.maintainer=MountaserHalak
