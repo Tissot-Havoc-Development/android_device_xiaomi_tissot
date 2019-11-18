@@ -15,3 +15,7 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/havoc_tissot.mk
+
+COMMON_LUNCH_CHOICES := \
+    havoc_tissot-userdebug \
+    havoc_tissot-eng
